@@ -1,2 +1,2 @@
-# Graph-Algorithms
-Contains python implementation of graph algorithm
+# Dynamic Programming
+Contains python implementation of Dynamic Programming algorithm
